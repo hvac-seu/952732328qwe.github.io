@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://old.blog.cjxyzhl.top</id>
+    <title>🤝Zhao Blog</title>
+    <updated>2021-01-11T06:42:12.545Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://old.blog.cjxyzhl.top"/>
+    <link rel="self" href="https://old.blog.cjxyzhl.top/atom.xml"/>
+    <subtitle>简简单单生活写照</subtitle>
+    <logo>https://old.blog.cjxyzhl.top/images/avatar.png</logo>
+    <icon>https://old.blog.cjxyzhl.top/favicon.ico</icon>
+    <rights>All rights reserved 2021, 🤝Zhao Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Jenkins与Github自动部署测试]]></title>
+        <id>https://old.blog.cjxyzhl.top/post/xZDoEnSDL/</id>
+        <link href="https://old.blog.cjxyzhl.top/post/xZDoEnSDL/">
+        </link>
+        <updated>2020-09-14T12:27:52.000Z</updated>
+        <content type="html"><![CDATA[<p>现在是2020年9月14日</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传热学（章熙民第六版）课后习题解答——绪论]]></title>
+        <id>https://old.blog.cjxyzhl.top/post/mijdJz03N/</id>
+        <link href="https://old.blog.cjxyzhl.top/post/mijdJz03N/">
+        </link>
+        <updated>2020-09-03T15:12:35.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li><a href="#%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2%E7%9A%84%E8%AF%9D">写在前面的话</a></li>
+<li><a href="#%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94">习题解答</a></li>
+</ul>
+(传热学（章熙民第六版）课后习题解答——绪论)</p>
+<h1 id="写在前面的话">写在前面的话</h1>
+<p>在备考此专业课的过程中，将自己学习后，解答的习题过程整理成册，以备日后查阅和方便其他学习此书的同学作参考。编者学术水平有限，当中错误之处请大家指正——邮箱：1907160330@njtech.edu.cn</p>
+<h1 id="习题解答">习题解答</h1>
+<p><img src="https://img-blog.csdnimg.cn/20200903230858248.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="1" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20200903230858228.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="2" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20200903230858125.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="3" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/2020090323085877.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="4" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/2020090323085872.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="5" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/202009032308581.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="6" loading="lazy"><br>
+个人博客：<a href="http://blog.cjxyzhl.top">https://blog.cjxyzhl.top</a><br>
+B站投稿：<a href="https://space.bilibili.com/248367024">https://space.bilibili.com/248367024</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毕业设计总结系列1-设计手段]]></title>
+        <id>https://old.blog.cjxyzhl.top/post/LjrPwhL3G/</id>
+        <link href="https://old.blog.cjxyzhl.top/post/LjrPwhL3G/">
+        </link>
+        <updated>2020-08-11T16:56:23.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li><a href="#%E5%89%8D%E8%A8%80">前言</a></li>
+<li><a href="#%E5%8D%8F%E5%90%8C%E8%AE%BE%E8%AE%A1">协同设计</a>
+<ul>
+<li><a href="#%E5%9B%A2%E9%98%9F%E5%8D%8F%E5%90%8C%E8%AE%BE%E8%AE%A1">团队协同设计</a>
+<ul>
+<li><a href="#%E4%BA%91%E4%B8%BB%E6%9C%BA">云主机</a></li>
+<li><a href="#%E4%BA%91%E8%AE%A1%E7%AE%97">云计算</a></li>
+<li><a href="#%E8%BF%9B%E5%BA%A6%E7%AE%A1%E7%90%86">进度管理</a></li>
+</ul>
+</li>
+<li><a href="#bim%E5%8D%8F%E5%90%8C%E8%AE%BE%E8%AE%A1">BIM协同设计</a>
+<ul>
+<li><a href="#%E6%90%AD%E5%BB%BA%E6%A8%A1%E5%9E%8B%E5%AD%98%E5%82%A8%E6%9C%8D%E5%8A%A1">搭建模型存储服务</a></li>
+<li><a href="#%E4%BA%91%E4%B8%BB%E6%9C%BA%E6%9C%AC%E5%9C%B0%E5%AE%A2%E6%88%B7%E7%AB%AF">云主机本地客户端</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#%E5%B0%8F%E7%BB%93">小结</a></li>
+</ul>
+(毕业设计总结系列1-设计手段)</p>
+<h1 id="前言">前言</h1>
+<ul>
+<li>本次毕业设计为小组的团队设计，以2020年CAR-ASHRAE学生设计竞赛题目为毕业设计主题，同时报名参赛。毕设小组成员四人、指导老师四人，于2020年2月15日开始，至2020年7月21日结束，历时157天。本文作为此次设计总结第一篇，主要介绍在设计中使用到的相关设计手段，<strong>当中所涉及到的具体方法、工具等会在后续文章中说明</strong>。设计过程中所用的服务器、网络以及高性能工作站由<a href="http://network.njtech.edu.cn">校信息中心</a>、<a href="http://vod.njtech.edu.cn">融媒体中心电视台</a>、以及<a href="http://csjsxy.njtech.edu.cn">所在学院</a>提供支持。</li>
+</ul>
+<h1 id="协同设计">协同设计</h1>
+<p>由于是小组设计，必然会需要多人配合来完成项目，所以整体的设计手段为——数据集中，协同设计。协同设计又分两个层面：一是在团队中<strong>各成员间的协同</strong>；二是本次设计中所才用的<strong>BIM设计流程间的协同</strong>。</p>
+<h2 id="团队协同设计">团队协同设计</h2>
+<p>团队方面我主要阐述三个方面：<mark>云主机、云计算和进度管理</mark>。</p>
+<h3 id="云主机">云主机</h3>
+<p>团队中每个人的所用设备的性能不一、所装软件版本不一、所处地区网络环境好坏不一、处理突发问题的能力不一，而使用云主机可以有效的避免上述问题，大幅提高团队成员的工作效率。</p>
+<ul>
+<li>云主机有如下<strong>优势</strong>：</li>
+</ul>
+<ol>
+<li>可根据每人任务不同个性化定制主机配置，以满足设计需要。</li>
+<li>在一台主机上配置好相关设计环境以及所需设计软件后，可直接克隆为主机模板，其他成员主机可直接使用模板建立，能完全保证每位成员所用设计环境版本等一致。</li>
+<li>云主机均在数据中心机房内的服务器物理主机上建立，网络带宽、电源供电以及数据安全均能得到有效保障。</li>
+<li>服务器会每天定时保存云主机快照，当云主机上程序崩溃，或者系统环境不稳定时，可及时恢复之前的快照，或者将数据保存后，重新建立新的云主机，节省因系统或软件原因造成的时间浪费。</li>
+<li>组内某成员若有问题无法解决，其他成员可直接登录其云主机给予解决。</li>
+</ol>
+<p>我们小组内常规设计人员所用的云主机配置如下：</p>
+<p><img src="https://img-blog.csdnimg.cn/20200811232615138.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="云主机配置1" loading="lazy"><br>
+部分云主机列表展示：</p>
+<p><img src="https://img-blog.csdnimg.cn/202008112328056.png#pic_center" alt="云主机列表" loading="lazy"><br>
+云主机桌面展示：</p>
+<p><img src="https://img-blog.csdnimg.cn/20200811233157634.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="云主机桌面" loading="lazy"><br>
+云主机所在服务器由校融媒体中心电视台提供支持。所用服务器配置如下（共两台）：</p>
+<p><img src="https://img-blog.csdnimg.cn/20200812000158999.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" loading="lazy"><br>
+在此感谢电视台领导与老师的大力支持。</p>
+<h3 id="云计算">云计算</h3>
+<ul>
+<li>设计过程中，很多模拟、计算、分析软件都需要较强的算力来支持。例如，要进行一个大空间的CFD模拟计算，普通笔记本如果要进行高精度的模拟，可能要花费5-6小时的时间，这期间电脑没有多余的性能，组员也无法进行其它工作；同时，有的数学模型运算甚至可能需要更久的时长，这期间若是由于温度、电压等因素的影响，容易造成系统不稳定，从而计算失败，导致时间的浪费。</li>
+<li>综上原因，云计算的应用会为整个设计过程提供强有力的支持，<strong>能节省大量的设计时间，同时计算的稳定性也得到了提升</strong>。</li>
+<li>本次设计中主要应用到高性能计算的部分有<mark>全年动态负荷模拟、全年空调系统能耗模拟、室内空调送风模拟（CFD）、基于Matlab使用零维水温模型预测地表水的全年温度变化等四项</mark>。</li>
+<li>由于我们所涉及到的计算软件都运行在Windows系统下，因此高性能云计算主机也都开设的Windows操作系统，具体配置如下：</li>
+</ul>
+<p><img src="https://img-blog.csdnimg.cn/20200811235041911.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="云计算主机配置" loading="lazy"><br>
+云计算主机所在服务器由<a href="http://network.njtech.edu.cn">校信息中心</a>和<a href="http://csjsxy.njtech.edu.cn">城建学院</a>提供支持。所用服务器配置如下（一共三台）：</p>
+<p><img src="https://img-blog.csdnimg.cn/20200812000512413.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" loading="lazy"><br>
+感谢信息中心<a href="http://blcui.njtech.edu.cn/">崔老师</a>以及<a href="http://online.njtech.edu.cn">Mars工作室</a>和学院指导老师的大力支持。</p>
+<h3 id="进度管理">进度管理</h3>
+<p>团队成员较多时，就需要一个管理平台来分配任务，同时组长与指导老师也能很好的掌握每个组员任务的完成情况；并且，每个任务完成后，还可将相应的结果文档或者图纸文件以任务完结附件的形式上传。<br>
+推荐使用的项目进度管理平台：<a href="htto://https://tower.im/">Tower</a><br>
+创建团队与项目后，根据设计需求新建若干个任务，分配给团队内相应成员完成，并标注完成的截止日期。小组成员在完成任务后，可以直接点击确认完成，并上传相应的附件。<br>
+<img src="https://img-blog.csdnimg.cn/20200812002433471.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" loading="lazy"></p>
+<p><img src="https://img-blog.csdnimg.cn/20200812002444795.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" loading="lazy"><br>
+这样做的好处：<mark>一是让团队分工更加明确，组长与指导老师也能及时掌握任务完成情况；二是每个任务完成后都会上传附件，这样每个版本的文件都易于区分</mark>。</p>
+<h2 id="bim协同设计">BIM协同设计</h2>
+<p>BIM协同设计主要是在Revit模型建立过程中，需要多位同学的协同建模，来加快建模与画图速度。要求是平台能实现构件级的协同编辑。</p>
+<h3 id="搭建模型存储服务">搭建模型存储服务</h3>
+<p>本次设计选用了红瓦科技的协同大师，作为BIM协同平台。依托校园局域网的优势，在校园网内服务器上搭建了私有协同大师模型存储服务器。</p>
+<figure data-type="image" tabindex="1"><img src="https://img-blog.csdnimg.cn/20200812003405712.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" loading="lazy"></figure>
+<h3 id="云主机本地客户端">云主机本地客户端</h3>
+<p>打开协同大师本地客户端后，创建团队，邀请成员，新建项目，填写校园网内的私有服务器，开始BIM协同设计。</p>
+<p><img src="https://img-blog.csdnimg.cn/202008120035539.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20200812003644212.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" loading="lazy"><br>
+在模型中划分工作集，由不同成员负责绘制。</p>
+<p><img src="https://img-blog.csdnimg.cn/20200812003743566.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" loading="lazy"><br>
+由于上述模型存储服务与云主机上安装的本地客户端都在校园局域网内，因此传输速率与同步时间都不构成设计瓶颈。</p>
+<h1 id="小结">小结</h1>
+<p><img src="https://img-blog.csdnimg.cn/20200812004130994.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" loading="lazy"><br>
+由文中所阐述与上图框架均可看出，本次毕业设计所有操作均在云上完成，尤其是重要数据都会上云保存。原因也很简单，<mark>数据上云可以保证在各终端上都可方便预览、校园网内可随时在任意电脑上登录云主机进行设计工作、最重要的是数据中心的容灾能力，完全可以保证我们所有数据的安全。</mark></p>
+<p>最后，在此感激学校与学院对我们此次设计中云服务需求的大力支持，同时也感谢<a href="http://www.hwbim.com/">红瓦科技</a>为我们提供服务私有部署服务。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BD原盘电影压制]]></title>
+        <id>https://old.blog.cjxyzhl.top/post/1W01M9w-v/</id>
+        <link href="https://old.blog.cjxyzhl.top/post/1W01M9w-v/">
+        </link>
+        <updated>2020-05-15T16:10:11.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li><a href="#%E8%B5%84%E6%BA%90%E5%87%86%E5%A4%87">资源准备</a>
+<ul>
+<li><a href="#%E8%A7%86%E9%A2%91%E8%B5%84%E6%BA%90">视频资源</a></li>
+<li><a href="#%E5%AD%97%E5%B9%95%E8%B5%84%E6%BA%90">字幕资源</a></li>
+</ul>
+</li>
+<li><a href="#%E5%AD%97%E5%B9%95%E6%96%87%E4%BB%B6%E8%B0%83%E6%95%B4">字幕文件调整</a>
+<ul>
+<li><a href="#%E6%9F%A5%E7%9C%8Bbd%E8%A7%86%E9%A2%91%E8%B5%84%E6%BA%90%E5%B0%BA%E5%AF%B8">查看BD视频资源尺寸</a></li>
+<li><a href="#%E4%BF%AE%E6%94%B9%E5%AD%97%E5%B9%95%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F">修改字幕文件格式</a></li>
+</ul>
+</li>
+<li><a href="#%E5%8E%8B%E5%88%B6%E8%A7%86%E9%A2%91%E5%92%8C%E5%AD%97%E5%B9%95">压制视频和字幕</a>
+<ul>
+<li><a href="#%E4%B8%8A%E4%BC%A0%E8%87%B3%E8%BD%AC%E7%A0%81%E6%9C%8D%E5%8A%A1%E5%99%A8">上传至转码服务器</a></li>
+<li><a href="#ffmpeg%E5%8E%8B%E5%88%B6%E5%91%BD%E4%BB%A4">ffmpeg压制命令</a></li>
+</ul>
+</li>
+<li><a href="#%E5%8F%91%E5%B8%83">发布</a></li>
+</ul>
+(BD原盘电影压制)</p>
+<h1 id="资源准备">资源准备</h1>
+<h2 id="视频资源">视频资源</h2>
+<p><a href="http://online.njtech.edu.cn">南工在线</a>(仅校内访问)的电影资源，基本上都是从<a href="https://www.88btbtt.com/">BT之家</a>中下载的纯净版BD资源，有一部分是从教育网PT站：<a href="https://www.tjupt.org/">北洋园</a>、<a href="https://bt.byr.cn/">北邮人</a>(仅ipv6访问)中下载。<br>
+<img src="https://img-blog.csdnimg.cn/20200515233541541.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br>
+BD资源一般都比较大，不过得益于开了迅雷会员和学校服务器上面的高网速，基本都能很快地下下来。如果遇到有些版权限制的资源，首先看一下迅雷评论区有没有人发出口令，如果有，直接复制，迅雷会自动读取并进行下载；如果没有，右击资源复制磁力链接，利用百度云的离线下载功能进行下载。<br>
+<img src="https://img-blog.csdnimg.cn/20200515233815747.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></p>
+<h2 id="字幕资源">字幕资源</h2>
+<p>我现在主要从：<a href="https://subhd.tv/">subhd</a>和<a href="http://www.zimuku.la/">字幕库</a>上下载字幕。下载注意寻找下载高、评价好，同时又符合你BD资源版本的字幕。<br>
+最好使用主流字幕组压制的字幕，比如：YYeTs字幕组、擦枪字幕组等。</p>
+<h1 id="字幕文件调整">字幕文件调整</h1>
+<h2 id="查看bd视频资源尺寸">查看BD视频资源尺寸</h2>
+<ul>
+<li>使用Potplayer打开视频，按下tab键，会出现视频文件的相关信息。查看输出一栏中的视频分辨率，下图中的视频分辨率为1920x800<br>
+<img src="https://img-blog.csdnimg.cn/20200515234910903.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></li>
+</ul>
+<h2 id="修改字幕文件格式">修改字幕文件格式</h2>
+<ul>
+<li>使用Aegisub打开ass或者srt字幕文件</li>
+<li>初次使用，在 字幕-样式管理器 中添加新的字幕样式，配置如图<br>
+<img src="https://img-blog.csdnimg.cn/20200515235207844.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20200515235227865.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20200515235402337.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></li>
+<li>将字幕样式导入当前脚本<br>
+<img src="https://img-blog.csdnimg.cn/20200515235505226.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></li>
+<li>打开辅助图片，如果是标准1080p分辨率，直接使用空白视频相应格式即可。由于压制的视频为1920x800，这里我们打开对应的辅助图片。<br>
+<img src="https://img-blog.csdnimg.cn/20200515235659860.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20200515235719343.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></li>
+<li>选中中文文本，设置样式为 微软雅黑中文；英文样式为 微软雅黑英文<br>
+<img src="https://img-blog.csdnimg.cn/20200515235821923.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></li>
+<li>设置后，选中一行字幕，点击播放当前行，即可看到字幕位置。<br>
+<img src="https://img-blog.csdnimg.cn/20200515235921233.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></li>
+<li>此时，如果大小及位置不美观，点击右上角编辑，进行相应的修改，直至美观符合要求。<br>
+<img src="https://img-blog.csdnimg.cn/20200516000021341.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></li>
+<li>调整完后保存字幕文件</li>
+</ul>
+<h1 id="压制视频和字幕">压制视频和字幕</h1>
+<h2 id="上传至转码服务器">上传至转码服务器</h2>
+<p>使用winscp工具将视频与字幕文件上传至服务器目录下</p>
+<h2 id="ffmpeg压制命令">ffmpeg压制命令</h2>
+<p>此处以 Kalashnikov.mkv 和 Kalashnikov.ass 为例</p>
+<pre><code class="language-bash">ffmpeg -i Kalashnikov.mkv -c:v libx264 -preset medium -crf 24 -c:a aac -strict -2 -vf 'pad=1920:1080:0:140:black,subtitles=Kalashnikov.ass' Kalashnikov.mp4
+</code></pre>
+<p>其中，<code>pad=1920:1080:0:140:black</code>是为视频上下各加140像素黑边。原视频为1920x800，要变为1080P视频就需要添加(1080-800)280像素的黑边，上下两边平均后为140像素。</p>
+<h1 id="发布">发布</h1>
+<p>压制结束后，试看没问题后，发布到生产页面。</p>
+<p>个人博客：<a href="http://blog.cjxyzhl.top">http://blog.cjxyzhl.top</a><br>
+B站投稿：<a href="https://space.bilibili.com/248367024">https://space.bilibili.com/248367024</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何实现BIM模型与空调负荷计算软件的链接]]></title>
+        <id>https://old.blog.cjxyzhl.top/post/ru-he-shi-xian-bim-mo-xing-yu-kong-diao-fu-he-ji-suan-ruan-jian-de-lian-jie/</id>
+        <link href="https://old.blog.cjxyzhl.top/post/ru-he-shi-xian-bim-mo-xing-yu-kong-diao-fu-he-ji-suan-ruan-jian-de-lian-jie/">
+        </link>
+        <updated>2020-04-14T15:05:22.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li><a href="#%E4%BD%BF%E7%94%A8%E5%B9%B3%E5%8F%B0">使用平台</a></li>
+<li><a href="#%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4">操作步骤</a>
+<ul>
+<li><a href="#1-%E5%BB%BA%E7%AD%91%E7%BB%98%E5%88%B6">1. 建筑绘制</a></li>
+<li><a href="#2-%E5%88%9B%E5%BB%BA%E6%88%BF%E9%97%B4">2. 创建房间</a></li>
+<li><a href="#3-%E6%A0%B9%E6%8D%AE%E6%88%BF%E9%97%B4%E5%88%9B%E5%BB%BA%E5%AF%B9%E5%BA%94%E7%A9%BA%E9%97%B4">3. 根据房间创建对应空间</a></li>
+<li><a href="#4-%E5%AF%BC%E5%87%BAgbxml%E6%96%87%E4%BB%B6">4. 导出GBXML文件</a></li>
+<li><a href="#5-%E8%B4%9F%E8%8D%B7%E8%AE%A1%E7%AE%97%E8%BD%AF%E4%BB%B6%E4%B8%AD%E5%AF%BC%E5%85%A5%E5%BB%BA%E7%AD%91%E4%BF%A1%E6%81%AF">5. 负荷计算软件中导入建筑信息</a></li>
+</ul>
+</li>
+</ul>
+(如何实现BIM模型与空调负荷计算软件的链接)</p>
+<h1 id="使用平台">使用平台</h1>
+<p>BIM模型使用<strong>Revit2018</strong>配合鸿业负荷计算10.0插件建立，空调负荷计算使用<strong>鸿业HCloud 10.0</strong>。</p>
+<h1 id="操作步骤">操作步骤</h1>
+<h2 id="1-建筑绘制">1. 建筑绘制</h2>
+<p>在Revit绘制好墙、窗等相关围护结构。<br>
+<img src="https://img-blog.csdnimg.cn/20200414223827795.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></p>
+<h2 id="2-创建房间">2. 创建房间</h2>
+<p>使用房间放置工具，为每个房间创建信息，并修改房间名称<br>
+<img src="https://img-blog.csdnimg.cn/20200414224047560.png" alt="在这里插入图片描述" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20200414224128978.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></p>
+<h2 id="3-根据房间创建对应空间">3. 根据房间创建对应空间</h2>
+<p>根据房间功能不同，创建相应空间，为每个房间指定设计参数。</p>
+<ul>
+<li>创建相应的房间类型功能参数</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://img-blog.csdnimg.cn/20200414224930567.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></figure>
+<ul>
+<li>输入房间名称关键词，指定空间类型，批量创建空间<br>
+<img src="https://img-blog.csdnimg.cn/20200414225030882.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></li>
+<li>空间创建完成后，根据各自房间特点，创建HAVC分区<br>
+<img src="https://img-blog.csdnimg.cn/2020041422525244.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></li>
+</ul>
+<h2 id="4-导出gbxml文件">4. 导出GBXML文件</h2>
+<ul>
+<li>
+<p>进入三维视图<br>
+<img src="https://img-blog.csdnimg.cn/2020041422545946.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></p>
+</li>
+<li>
+<p>在菜单栏打开文件-导出-导出gbxml文件<br>
+<img src="https://img-blog.csdnimg.cn/20200414225546282.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></p>
+</li>
+<li>
+<p>这里我们是计算负荷用，所以选择使用房间/空间体积<br>
+<img src="https://img-blog.csdnimg.cn/20200414225615587.png" alt="在这里插入图片描述" loading="lazy"></p>
+</li>
+</ul>
+<h2 id="5-负荷计算软件中导入建筑信息">5. 负荷计算软件中导入建筑信息</h2>
+<ul>
+<li>打开计算软件，我这里使用的是鸿业暖通空调负荷计算（谐波法）<br>
+<img src="https://img-blog.csdnimg.cn/20200414225826165.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></li>
+<li>菜单栏点击 编辑-添加gbxml建筑，然后导入前面从Revit中导出的gbxml文件即可<br>
+<img src="https://img-blog.csdnimg.cn/20200414230007563.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></li>
+<li>此时，我们便可以看到建筑、房间信息了，负荷也计算完成<br>
+<img src="https://img-blog.csdnimg.cn/20200414230202633.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br>
+软件是会自动识别是地上房间还是地下房间的。<br>
+至此，Revit与负荷计算软件的信息交互完成。</li>
+</ul>
+<p>个人博客：<a href="http://blog.cjxyzhl.top">http://blog.cjxyzhl.top</a><br>
+B站投稿：<a href="https://space.bilibili.com/248367024">https://space.bilibili.com/248367024</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIM正向化设计——思维的转变以及实例介绍]]></title>
+        <id>https://old.blog.cjxyzhl.top/post/bim-zheng-xiang-hua-she-ji-si-wei-de-zhuan-bian-yi-ji-shi-li-jie-shao/</id>
+        <link href="https://old.blog.cjxyzhl.top/post/bim-zheng-xiang-hua-she-ji-si-wei-de-zhuan-bian-yi-ji-shi-li-jie-shao/">
+        </link>
+        <updated>2020-04-13T15:58:16.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li><a href="#bim%E8%AE%BE%E8%AE%A1">BIM设计</a>
+<ul>
+<li><a href="#%E4%BB%80%E4%B9%88%E6%98%AF%E6%AD%A3%E5%90%91%E8%AE%BE%E8%AE%A1">什么是正向设计</a></li>
+<li><a href="#bim%E6%AD%A3%E5%90%91%E8%AE%BE%E8%AE%A1">BIM正向设计</a></li>
+<li><a href="#bim%E5%8D%8F%E5%90%8C%E8%AE%BE%E8%AE%A1">BIM协同设计</a></li>
+<li><a href="#bim%E8%AE%BE%E8%AE%A1%E7%9A%84%E4%BC%98%E5%8A%BF">BIM设计的优势</a></li>
+<li><a href="#bim%E8%AE%BE%E8%AE%A1%E5%88%9D%E4%BD%93%E9%AA%8C">BIM设计初体验</a>
+<ul>
+<li><a href="#%E5%B1%80%E9%99%90%E6%80%A7">局限性</a></li>
+<li><a href="#%E4%BD%BF%E7%94%A8%E5%B9%B3%E5%8F%B0">使用平台</a></li>
+<li><a href="#bim%E8%AE%BE%E8%AE%A1%E6%B5%81%E7%A8%8B">BIM设计流程</a></li>
+<li><a href="#%E6%A1%88%E4%BE%8B%E5%B1%95%E7%A4%BA">案例展示</a></li>
+</ul>
+</li>
+<li><a href="#%E6%80%BB%E7%BB%93">总结</a></li>
+</ul>
+</li>
+</ul>
+(BIM正向化设计——思维的转变以及实例介绍)</p>
+<h1 id="bim设计">BIM设计</h1>
+<ul>
+<li>在我刚上大一的时候，第一次听说BIM是在2016年的国庆节参观上海中心的时候，当时展厅里介绍有关上海中心的建设历程时，特别提到了它是使用了BIM技术进行设计、建造、施工的。那会也是一知半解，只觉得很厉害，能把一个事物在三维空间中展现出来，以及知道了一个软件——Revit，甚至不知道BIM与Revit之间有什么联系。</li>
+<li>时间一晃到了大二下学期，我们有一门BIM基础的选修课，但当时也并没有听懂什么，只是简单学会了一点Revit软件的操作方法，单纯的认为：我们以后不用CAD来画图了，要用Revit画图，做BIM设计。至于什么是是BIM还是不知道。</li>
+<li>直到——两个月前，多灾多难的2020年，由于一只蝙蝠的影响，我被迫在家开始了毕业设计。我所参加的毕设小组是做暖通竞赛设计的，似乎跟BIM没有什么联系，但是，我的导师还负责着很多组设计院模式的团队毕设，在几次听他们做阶段汇报的时候，了解到了一些内容——不同专业之间在做一栋建筑设计的时候，需要交换很多信息。同时，由于某只蝙蝠的原因，我们组里的同学也没法面对面交流，很多信息也只能通过语音电话来解决。此时，一些设计软件辅助平台免费开放使用的新闻映入了我的眼帘，我就又想到了BIM，这次有了基础的专业知识，暖通系统的设计思路，我再去查阅相关文献、资料、新闻等，同时结合做设计院模式毕设同学的汇报，我似乎明白了些BIM的含义，BIM——建筑信息模型。在这里面，我觉得最重要一条就是<strong>正向设计</strong>、<strong>协同设计</strong>。</li>
+</ul>
+<h2 id="什么是正向设计">什么是正向设计</h2>
+<ul>
+<li>正向BIM协同设计中的正向是相对于逆向而言的，即设计核心的相关工作在BIM的工作框架下完成，以BIM的思维和工作方式进行设计工作，尤其是专业内协同和专业间协同，设计相关信息通过BIM模型承载，通过该模型，应用BIM技术应用可分层次、分阶段、分专业，完成设计阶段的逐项应用。</li>
+</ul>
+<blockquote>
+<p>具体而言来说是的是：BIM技术可以用到建筑设计各专业中做BIM设计，BIM正向设计主要指直接采用三维协同设计，通过模型直接得到所需的图纸、报表、视图、数据等。</p>
+</blockquote>
+<p>用BIM绝对不是单纯的翻模，单用BIM做设计存在的问题和解决方法。逆向化翻模成果，可以集成信息，进行碰撞检查、方案优化、可视化交底等，但是BIM翻模的核心和主体还是依靠CAD，而BIM信息模型只是附属部分，这不仅对设计师造成了负担，而且也不符合BIM技术的初衷。应用BIM进行正向设计的目标是能够直接在三维环境下进行设计，即模块化参数化设计、方案优化、自动出图、图纸与模型相互关联，甚至可以与计算模型结合，同步优化，这个过程才是我们所理解的BIM正向设计。</p>
+<h2 id="bim正向设计">BIM正向设计</h2>
+<ol>
+<li>先建模，后出图”正向设计BIM应用。因为使用“先建模，后出图”的正向设计BIM技术应用方式，保证了图纸和模型的一致性，减少了施工图的错漏碰缺，对于设计质量有很大的提高。</li>
+<li>全专业设计BIM应用。实现了各专业之间设计过程中的高度协调，提高了专业间设计调整效率，更加高效的把控项目设计的进度和质量。</li>
+<li>全三维无死角的设计。提高了设计完成度和精细度，减少了设计盲区，<strong>让模型服务后期施工成为可能</strong>，这也是BIM正向设计的最终目的。</li>
+</ol>
+<h2 id="bim协同设计">BIM协同设计</h2>
+<ul>
+<li>利用BIM体系的多软件协作，可以将创建的模型其价值发挥到最大，实现“一模多用”。在BIM体系软件中，包括日照，能耗，疏散，消防，结构计算，水力计算，冷热负荷，电气配电等工作内容，均可以通过BIM模型进行交互。例如，日照分析，创见的模型可以直接用于日照分析，日照分析软件可以完全读取模型的图形和信息，区分墙体、屋顶、门窗、洞口等，从而快速地分析建筑整体日照，以及房间日照情况。根据分析情况进行修改，修改后，可快速用于后续多次的分析。</li>
+<li>在正向BIM协同设计过程中，需要约定专业内和专业间的协同工作方式，以及专业间工作流程，通过协同设计的并行工作优势，可以保证专业间的信息传递及时有效。在传统设计中，即时采用二维协同设计，也仍旧有部分内容协调压力较大，首先二维协同设计受文件管理局限，同一文件无法两人同时编辑，从而影响专业内的协作。</li>
+<li><mark>而正向BIM协同设计，可以允许同专业人员在同一个文件上同时操作，专业间不仅传递图形，同时传递属性，重复内容即时专业间各自创建重复表达，重复表达的内容也是联系并联动的，例如建筑可以基于结构楼板在同标高位置，创建有面层的楼板，符合各自的表达需求，而在结构或建筑任一专业调整楼板高度时，另一专业都会获得消息提醒，并允许另一专业选择跟随或要求其改回。</mark></li>
+</ul>
+<h2 id="bim设计的优势">BIM设计的优势</h2>
+<ul>
+<li>用三维的思维做设计，是正向BIM协同设计最大的隐性收益。在传统的二维设计和逆向BIM设计中，设计的演化和推敲，是在二维图形上实现和完成的，设计师局限于二维的思维，和脑海中的二维转化三维，设计人员和读图人员，为了表达设计和理解设计，都要反复经历转换的过程。<br>
+三维的思维做设计优于二维的思维，不再将设计局限在二维的图形表达中，而是在三维空间中反复推敲，所见即所得，不需要思维转换，在设计人和读图人之间的传递也是充分而全面的。正向BIM协同设计的三维成果也将与更多的技术与应用场景结合，传统设计交付的二维图纸无法实现扩展应用，逆向BIM设计的成果虽然是三维，但信息有限，且无法保证与图纸的完全一致性而很难扩展。</li>
+<li>正向BIM协同设计，<em><strong>基于服务平台和云端的协同文件</strong></em>，创建了直观的全连动的BIM模型与信息，其图形和属性都直接反应设计本意，使得模型可以被充分信任地用于各种BIM应用，避免了逆向翻模中，逆向成果与设计本意不一致而造成的诸多风险与重复建模工作。同时，正向BIM协同设计，优于传统协同设计的根本原因，在于它更高层级的协同，不仅协同了人、专业，也协同了设计过程中的诸多应用与任务节点，再者，将设计充分引入到三维体系和可视化建造过程，较传统设计将更多信息提前、工作前置、内容整合，以充分发挥设计的价值。</li>
+</ul>
+<h2 id="bim设计初体验">BIM设计初体验</h2>
+<h3 id="局限性">局限性</h3>
+<p>由于我是只做暖通系统的设计，因此我所能实现以及体验到的只有是专业内的协同设计，同时，由于题目限制，已经拿到完成的建筑平面图，只能实现一个暖通系统设计中的小范围正向设计，但是整体的设计思路以及设计模式，在多专业的正向设计中都是可以参考借鉴的。</p>
+<h3 id="使用平台">使用平台</h3>
+<p>我们小组现在使用的是Revit 2018进行模型绘制（由于只有暖通设计，建筑模型只能翻模完成），鸿业负荷计算10.0进行谐波反应法的逐时负荷计算，鸿业全年负荷计算及能耗分析软件V5.0进行全年动态负荷模拟，鸿业建筑风环境模拟分析软件V4.0进行空间的气流组织模拟，鸿业BIMSpace2020插件在Revit平台上进行风管、机房的设计，<strong>最后最重要的服务平台和云端文件协同是使用了红瓦科技的协同大师，它能使得我们小组每个同学能在一套模型中进行各自负责区域的设计绘制并及时同步。</strong></p>
+<h3 id="bim设计流程">BIM设计流程</h3>
+<p><em>注：此处我叙述完整的多专业协同设计流程，由于经历有限，可能并不全面。</em></p>
+<ul>
+<li>由建筑、结构专业多名设计人员负责不同楼层区域，设计各自工作集创建基础模型样板，绘制相关围护结构、内部承重结构等</li>
+<li>建筑基础模型建立后，各专业拿到模型信息进行各自的设计、校核等，对模型中有异议的地方进行修改，并提交请求，相关负责专业设计人员看到请求后进行处理，若同意则此次信息交互完成。</li>
+<li>我这里以暖通设计为例详细说明。拿到建筑模型后，整理内部功能区，了解各区域设计参数，在Revir中创建HAVC分区，将设计参数信息写入模型，相关准备工作完成后，在Revit中导出绿色建筑信息文件——gbxml文件。打开负荷计算软件、全年动态模拟软件，气流组织模拟软件，导入gbxml文件，BIM模型就会进入相关计算软件，然后进行计算即可，计算完成后还可将数据在导回BIM模型中。</li>
+<li>进行管线设计时，各专业在各自管线工作集上进行绘制，绘制结束后，与中心模型文件同步，如果与其他专业管路相冲突，则会有相应提示，这时就需要协商，综合调整，保证不会出现相撞情况。</li>
+<li>所有专业都完成设计后，总负责人将中心模型导出，自动生成各专业平面图，设计阶段就告于段落。</li>
+</ul>
+<h3 id="案例展示">案例展示</h3>
+<ul>
+<li>
+<p>首先是我们在云端平台上，建立设计团队，创建中心模型，各个成员均可访问。同时，也建立相关的工作集。例如：中心模型里分为负一层主体、建筑模型、轴网与标高，我负责绘制建筑主体模型、轴网与标高，组内另外一名成员负责负一层的绘制，指定工作集的负责人员后，其它人员不能随意修改，如需修改就需要提交请求，等工作集负责人同意。<br>
+<img src="https://img-blog.csdnimg.cn/20200413233922400.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></p>
+</li>
+<li>
+<p>接下来展示的是建模完成的BIM模型<br>
+<img src="https://img-blog.csdnimg.cn/20200413234637952.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></p>
+</li>
+<li>
+<p>完成HVAC分区后导出GBXML文件，它将包含你建筑与绿色建筑计算相关的参数<br>
+-<img src="https://img-blog.csdnimg.cn/20200413234748619.png" alt="在这里插入图片描述" loading="lazy"></p>
+</li>
+<li>
+<p>打开相关的计算软件，导入BIM模型，即打开GBXML文件<br>
+<img src="https://img-blog.csdnimg.cn/20200413234938746.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20200413235058216.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"></p>
+</li>
+<li>
+<p>最后，由于还没开始进行管路设计，后续管路协同设计就不予展示了。都是建立不同区域的工作集，指定负责人进行完成，最后导出中心模型，生成专业图纸。</p>
+</li>
+</ul>
+<h2 id="总结">总结</h2>
+<p>BIM并不只是一个单单软件工具，更重要的是一种设计的思维与全局的信息工作管理观念，BIM对于新一代的相关专业同学更容易接受、学习和推广。每项新技术的发展都伴随阵痛，就像革命伴随着流血一样，只有足够先进实用的技术，且这个技术能够真真切切的能让相关人员厂商得利时的时候才容易被推广。而对于大多数的设计人员都习惯依赖了传统的二维操作习惯，BIM的三维操作会带来不适应带来阻力，还有花费时间与精力去学习的痛苦过程。我们作为设计行业中的一部分，更应该主动去学习、改变现有的落后的二维设计模式，尽管现在可能说很少有设计院会进行全BIM模式设计，但至少未来的趋势在这样，我们作为新生代设计人员，更应该掌握，在校期间能有机会进行BIM设计的实践，将会是宝贵的经历。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[零维水温模型计算——基于matlab建立计算模型]]></title>
+        <id>https://old.blog.cjxyzhl.top/post/matlab/</id>
+        <link href="https://old.blog.cjxyzhl.top/post/matlab/">
+        </link>
+        <updated>2020-04-12T09:40:50.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="零维水温模型">零维水温模型</h1>
+<p>零维模型将整个湖泊水体看成是混合均匀的单元，如果湖（库）的水深和面积较小，水面风力所产生的掺混作用会使垂直方向的水温趋向一致，可以考虑采用零维模型来预测自然水温变化，也可以用来预测开式和闭式地表水源热泵系统运行时的水温变化。用零维模型计算出的水温是湖泊的整体平均水温。</p>
+<h2 id="基本方程">基本方程</h2>
+<p>零维模型的基本方程如下：<br>
+<img src="https://img-blog.csdnimg.cn/20200411213721133.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="零维模型的基本方程" loading="lazy"><br>
+<strong>注：这里特别说明方程左侧的时间单位为：s，而方程右侧所能拿到的数据为逐时，编程时需要单位换算</strong><br>
+<img src="https://img-blog.csdnimg.cn/20200411214114443.png" alt="在这里插入图片描述" loading="lazy"><br>
+式中的L为空调负荷,COP为热泵机组的能效比。制冷运行时取加号，制热运行时取减号。如果令Q<sub>L</sub>=0，该方程便可用于计算湖泊的自然水温。<br>
+<img src="https://img-blog.csdnimg.cn/20200411214246177.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20200411214314388.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br>
+气象台站给出了相对湿度值，e_a为气温所对应的饱和水汽压与相对湿度的乘积。计算饱和水蒸气分压力的拟合公式较多，各公式的形式和计算精度都有所不同。<br>
+风速对水面换热有较大的影响。气象台给出的风速是距地面10m处的风速值，需要换算成1.5m处的风速，不同高度风速的换算公式为：<br>
+:<img src="https://img-blog.csdnimg.cn/20200411214448743.png" alt="在这里插入图片描述" loading="lazy"><br>
+丘陵以及房屋比较稀疏的乡镇和城市郊区,n取0.16；有密集建筑群的城市市区，n取0.22；有密集建筑群且房屋较高的城市市区，n取0.3。<br>
+<img src="https://img-blog.csdnimg.cn/20200411214616746.png" alt="在这里插入图片描述" loading="lazy"><br>
+湖水与岩土的换热是指湖水与湖底及湖岸侧壁的换热，这项换热有利于减小水温的波动。要准确计算出这一换热量相当复杂，Hull等认为可将湖水与湖底的换热视为湖水与地下水之间的稳态传热过程，并采用以下的经验公式计算：<br>
+<img src="https://img-blog.csdnimg.cn/20200411214647235.png" alt="在这里插入图片描述" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20200411214659480.png" alt="在这里插入图片描述" loading="lazy"><br>
+方程的右边为水温的非线性函数，且太阳辐射、气温等气象参数以及水体负 荷均为逐时变化的值，只能采用数值解法。采用“四阶龙格—库塔法求解&quot;求解公式为：<br>
+<img src="https://img-blog.csdnimg.cn/20200411214725689.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTcxMDAxOQ==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br>
+式中的h为时间步长。编写程序时需要将逐时的太阳辐射、气温、相对湿度、风速及空调负荷数据用txt文件的形式储存，程序运行时会自动调用这些数据。采用上式计算K<sub>2</sub>、K<sub>3</sub>时,各气象参数及空调负荷均采用前后两个时刻的算术平均值。</p>
+<h2 id="计算参数准备">计算参数准备</h2>
+<p>水温模拟计算需要干球温度、相对湿度、辐射强度、风速、全年负荷等</p>
+<p>相关数据可以到气象局网站查询，或者从DeST、鸿业EP等全年负荷模拟计算软件中导出相关气象参数。</p>
+<h2 id="matlab模型的建立">matlab模型的建立</h2>
+<pre><code>│  start.m								//启动函数
+│  
+├─main  		//计算函数文件夹
+│      ff.m
+│      fun.m
+│      psie.m
+│      psig.m
+│      psis.m
+│      QL.m
+│      runge.m
+│      testrk.m
+│      Tetens.m
+│      
+└─public		//计算数据文件夹
+        avgt.txt                         //逐时的平均气温
+        fengsu.txt                     //全年逐时风速
+        fuhe.txt                         //全年逐时负荷
+        fushe.txt						//全年逐时辐射
+        qiwen.txt						//全年逐时干球气温
+        shidu.txt						全年逐时相对湿度
+</code></pre>
+<h3 id="四阶龙格库塔法的matlab实现">四阶龙格—库塔法的matlab实现</h3>
+<p>runge函数为四阶龙格—库塔法的计算函数，需要输入x0,x1,y0,h等四项参数。<br>
+在该函数中，要引入相关全局变量，定义气象参数等随时刻数而变化的值；将相关逐时数据储存在txt或者excel文件中，在函数内使用load或xlsread命令读取数据，并将他们存储在相应的一维数组内，以便逐时计算时调用。</p>
+<pre><code class="language-c">function [x, y] = runge(x0, x1, y0, h)
+addpath main public;
+global  ts ta psisr W1 es ea i L COP;
+position1=load('fushe.txt');
+position2=load('qiwen.txt');
+position3=load('fengsu.txt');
+position4=load('shidu.txt');
+position5=load('avgt.txt');
+position6=load('fuhe.txt');
+[A]=position2;
+[B]=position1;
+[C]=position3;
+[D]=position4;
+[E]=position5;
+[F]=position6;
+n = (x1 - x0) / h;
+x = zeros(n + 1,1);
+y = zeros(n + 1,1);
+x(1) = x0;
+y(1) = y0;
+for i = 1:n
+    ta=A(i)
+    ts=y(i);
+    psisr=B(i);
+    W1=C(i)*0.15^0.16;
+    es=Tetens(ts);
+    ea=Tetens(ta)*D(n)/100;
+    L=F(i)*1000;
+    COP=5;
+    x(i + 1) = x(i) + h;
+    k1 = fun(x(i), y(i));
+    %fun函数将微分方程中x,y的值赋给具体等式中的x,y，即该水温模型中的t
+    k2 = fun(x(i) + 0.5*h, y(i) + k1*h/2);
+    k3 = fun(x(i) + 0.5*h, y(i) + k2*h/2);
+    k4 = fun(x(i)+ h, y(i) + k3*h);
+    y(i + 1) = y(i) + h*(k1 + 2*k2 + 2*k3 + k4)/6;
+end
+end
+</code></pre>
+<h3 id="水面的净流通量φs的计算函数">水面的净流通量φ<sub>s</sub>的计算函数</h3>
+<p>函数内对于φ<sub>e</sub>的计算单独使用了函数φ<sub>e</sub>，因为这里涉及到与当时时刻气温的比较，不同结果对应了不同的计算式。</p>
+<pre><code class="language-c">function psis = psis(ts,ta,psisr,W1,es,ea)
+addpath main public;
+%psis 水面的净热流通量，psisr-太阳辐射，psiar-大气长波辐射,rs-水面对太阳辐射的反射率,ra-水面对大气长波辐射的反射率，psiwe-水面发出的长波辐射,psic-蒸发
+%psisr,es,ea,ta,W1,
+ra=0.03;
+rs=0.07;
+%psisr,es,ea,ta,W1,
+sigma=5.67e-8;
+Cr=0.17;
+omega=0.5;
+epsilonw=0.97;
+P0=97220;
+Cb=0.00061;
+%syms t;
+epsilona=(1-0.261*exp((-0.74e-4)*ta^2))*(1+Cr*omega^2);
+% Cr-由云层高确定的系数，omega-云层覆盖的比例
+psiar=sigma*epsilona*(ta+273.15)^4;
+% sigma-Stefan-Boltzmann常数,epsilona-大气发射率,ta-气温
+psiwr=sigma*epsilonw*(ts+273.15)^4;
+% epsilonw-水面长波发射率
+psie1=psie(ts,ta,W1);
+% es-水面温度所对应的饱和水汽压，ea-空气的水汽压，W1-水面上方1.5米处的风速
+psic=(psie1/(es-ea))*Cb*P0*(ts-ta);
+% P0-水面上的大气压力，Cb-Bowen常数
+psis = (1-rs)*psisr+(1-ra)*psiar-psiwr-psie1-psic;
+end
+
+</code></pre>
+<p>下面是函数φ<sub>e</sub></p>
+<pre><code class="language-c">function psie = psie(ts,ta,W1)
+addpath main public;
+global es ea;
+if ts&gt;ta
+    psie=0.01*(es-ea)*sqrt(22+12.5*W1^2+2*(ts-ta));
+else
+    psie=0.01*(es-ea)*sqrt(22+12.5*W1^2);
+end
+</code></pre>
+<h3 id="湖水与岩土的换热φg的计算函数">湖水与岩土的换热φ<sub>g</sub>的计算函数</h3>
+<p>这个函数中将包含式子中唯一的未知数t。</p>
+<pre><code class="language-c">function psig = psig(t,Ab)
+addpath main public;
+%psig-湖水与岩土的换热量,lambdag-土壤的导热系数,P-湖面的周长,tg-当地的地下水温度
+dg = 2;
+lambdag=2.78;
+P=954;
+tg=21;
+psig = (0.99*(lambdag/dg)+0.9*(lambdag*P/Ab))*(t-tg);
+% dg-地下水位与湖底之间的垂直距离，lambdag-土壤的导热系数，P-湖面的周长，tg-当地的地下水温度
+end
+</code></pre>
+<h3 id="方程右侧含t多项式的表示">方程右侧含t多项式的表示</h3>
+<p>testrk函数输出一个含t多项式，即为微分方程右侧的式子。</p>
+<pre><code class="language-c">function f3 = testrk(A,Ab)
+addpath main public;
+global ts ta psisr W1 es ea i L;
+syms t;
+f1=psis(ts,ta,psisr,W1,es,ea);
+f2=psig(t,Ab);
+f4=QL(i,L);
+%如需计算引入负荷后的水温变化，则在下式中加入f4
+f3=(A*f1-Ab*f2+f4)*3600/(1000*117600*4186);
+% 零维水温模型右侧等式
+end
+</code></pre>
+<p><strong>注：</strong></p>
+<blockquote>
+<p>f3=(A<em>f1-Ab</em>f2+f4)<em>3600/(1000</em>117600*4186);<br>
+<strong>当中的3600，是用来统一时间单位的</strong></p>
+</blockquote>
+<h3 id="对多项式中的t进行赋值">对多项式中的t进行赋值</h3>
+<p>ff函数中使用matlabFunction函数，对含t未知数进行赋值</p>
+<pre><code class="language-cpp">function k = ff(y)
+addpath main public;
+A=19600;
+Ab=29400;
+z=testrk(A,Ab);
+%实现水温模型右侧等式，即z=右侧等式
+g=vpa(z,4)
+%化简代数式结果，保留4位小数
+f=matlabFunction(z);
+%将z值赋给含t代数式中的t
+k = f(y);
+end
+</code></pre>
+<h3 id="main文件夹中fun函数的说明">main文件夹中fun函数的说明</h3>
+<p>fun函数是多余的步骤，实现了将ff函数的结果传递作用，我这里以及完成水温模拟，便不进行修改了，大家模拟时可以将fun函数去除，直接使用ff函数。</p>
+<pre><code class="language-c">function z = fun(x, y)
+addpath main public;
+z = ff(y);
+end
+</code></pre>
+<h2 id="启动函数startm">启动函数start.m</h2>
+<p>设置好相关参数后，在start函数内点击运行，模型便开始计算，结果将会储存在数组[x,y]中。</p>
+<pre><code class="language-c">clear all;
+addpath main public;
+%将主函数及数据文件夹加入环境变量
+x0 = 0;
+%初始时刻
+x1 = 8759;
+%结束时刻
+y0 = 7.5;
+%初始温度
+h = 1;
+%计算步长
+[x, y] = runge(x0, x1, y0, h);
+%将计算结果存在数组[x,y]中
+</code></pre>
+<p>个人博客：<a href="http://blog.cjxyzhl.top">http://blog.cjxyzhl.top</a><br>
+B站投稿：<a href="https://space.bilibili.com/248367024">https://space.bilibili.com/248367024</a><br>
+代码仓库链接: <a href="https://github.com/952732328qwe/0-dimensional">https://github.com/952732328qwe/0-dimensional</a><br>
+评论请到：<a href="https://blog.csdn.net/weixin_45710019/article/details/105460195">https://blog.csdn.net/weixin_45710019/article/details/105460195</a></p>
+]]></content>
+    </entry>
+</feed>
